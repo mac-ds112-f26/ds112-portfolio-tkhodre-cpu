@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "ds112"
+assignment: "portfolio"
+owner:
+  username: "tkhodre-cpu"
+  id: 325723493
+  accepted_at: "2026-09-06T18:12:44Z"
+source:
+  owner: "mac-ds112-f26"
+  owner_id: 323651608
+  repo: "portfolio-template"
+  branch: "main"
