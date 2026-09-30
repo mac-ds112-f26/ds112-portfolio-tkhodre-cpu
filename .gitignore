@@ -70,3 +70,5 @@ _freeze/
 *.log
 *.aux
 *.toc
+homework/ds112-hw-tkhodre-cpu/
+_quarto.yml
